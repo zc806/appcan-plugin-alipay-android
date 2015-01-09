@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexAliPay" version="3.0.3" build="3">
+        <info>3:添加必要库文件</info>
+		<build>2:修复参数问题</build>
+		<build>1:修复不兼容安卓4.4的问题</build>
+		<build>0:支付宝功能插件</build>
+    </plugin>
+</uexplugins>
